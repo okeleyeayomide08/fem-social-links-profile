@@ -23,8 +23,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [This is solution URL](https://github.com/okeleyeayomide08/fem-social-links-profile)
+- Live Site URL: [This is live site URL](https://fem-social-links-profile-two.vercel.app/)
 
 ## My process
 
